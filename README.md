@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @salomonalb
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
